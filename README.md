@@ -1,6 +1,6 @@
 # Hartley2020-PLoSMedicine
 
-This data set is associated to 
+This data set is associated with 
 **Hartley et al, *Clinical relevance of low-density Plasmodium falciparum parasitaemia in untreated febrile children: a cohort study.* PLoS Medicine, 2020**
 
 The article is currently a pre-print at PLoS Medicine. The link will be added when available.
